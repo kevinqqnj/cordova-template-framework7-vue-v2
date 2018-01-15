@@ -53,3 +53,4 @@ plugins/
 node_modules/
 platforms/
 dump.rdb
+package-lock.json

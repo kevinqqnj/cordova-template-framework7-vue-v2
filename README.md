@@ -12,7 +12,13 @@ phonegap run browser -- --lr
 # phonegap platform add android
 ```
 
-Check your app at web browser: http://localhost:8081
+Bingo! Check your app at web browser: http://localhost:8081
+
+> In case of fail to run `phonegap run browser`, try to remove and add platform again
+```
+phonegap platform remove browser
+phonegap run browser -- --lr
+```
 
 ## Build
 ```
