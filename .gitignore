@@ -49,7 +49,7 @@ backup
 # webpack map
 *.map
 platforms/
-plugins/
+#plugins/
 node_modules/
 platforms/
 dump.rdb
