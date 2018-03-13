@@ -1,6 +1,9 @@
 # cordova-template-framework7-vue-webpack (v2)
-fit for Framework7 v2
+
 > original one (for F7 v1): https://github.com/centrual/cordova-template-framework7-vue-webpack
+
+Fit for Framework7 v2
+Demo: https://f7-vue-v2.herokuapp.com/
 
 ![snapshot](snapshot.png "snapshot")
 
